@@ -235,6 +235,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669983937/ei/Y
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/LS9HqXf.png" tvg-id="", Thomas & Friends
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669983938/ei/YZqJY4S7NYTkhwaRxpOQCg/ip/172.173.132.33/id/TafUDz2EdPA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgD3kEMS-kGj1tl5pSYsPKgVNiqJrnR7ZTeehidYXUfcMCIDIcBR69LQm3S3WKOqK8jiofcNXGgKRuWdX6y9PjlS8x/file/index.m3u8
 
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png" tvg-id="", Safari
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/ZVsn7QO.jpg" tvg-id="", asianetnews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669983938/ei/YpqJY_6yEdLN8wSkxLmQCQ/ip/172.173.132.33/id/PNR06O9sSio.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGod-xae_-OiuJLzmkYi1mgN05TCrr149MahufZHx_psCIGCbakd-JecN6pOiyOF30FUdYdksniLAVa7xvUGAWny5/file/index.m3u8
 
