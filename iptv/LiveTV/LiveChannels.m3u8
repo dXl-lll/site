@@ -2,5 +2,5 @@
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png" tvg-id="", Safari
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Mazhavil_Manorama_TV_Logo.jpg" tvg-id="", Mazhavil Manorama HD
-https://yupptvcatchupusa.akamaized.net/preview/mazhavilmanhd/800.m3u8?hdnts=st=1670429327~exp=1670429927~acl=!*/38/preview/mazhavilmanhd/*!/payload/yuppTVCom_5_-1_d249f76aae694887_SG_23.106.248.251/*~hmac=9bab7ed7ef18c2b08a466b9f0130ef9d30f207ffcb549fd23e933b1ad1f7e5d6
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670717146/ei/esqUY-vrBsqlxN8Ps8yB4AM/ip/2001%3A8f8%3A1e6f%3A8dbf%3A3540%3A9490%3Aa470%3Ae35d/id/x9qWT3Cr1OY.2/source/yt_live_broadcast/requiressl/yes/tx/24416439/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMXtUCMoGuiNWqCCm9GKmEMPlrTLXeathXEyNe-46-E4CIQDrkrRmztMMNNiaIz2rUS3M1N6SKRfk-Hn-XeRy3FXBQw%3D%3D/file/index.m3u8
